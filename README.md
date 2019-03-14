@@ -9,7 +9,7 @@ This project utilizes surpevisied machine learning techniques to analyze various
 
 The supplemental code file is in common directory. The data files in data dir. These directory structure needs to be maintanined as in the zip file for notebook to execute properly.
 
-
+```
 │  capstone project report.docx
 │  capstone project report.pdf
 │  capstone_project.html
@@ -37,5 +37,5 @@ The supplemental code file is in common directory. The data files in data dir. T
             TEDRATE.csv
             ^GSPC.csv
             ^TNX.csv
-
+```
             
